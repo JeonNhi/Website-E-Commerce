@@ -1,0 +1,14 @@
+# Loại trừ node_modules trong các thư mục con
+E-Commerce-client/node_modules/
+server/node_modules/
+
+# Loại trừ file cấu hình môi trường
+*.env
+
+# Loại trừ các file log
+*.log
+
+# Loại trừ hệ thống
+.DS_Store
+Thumbs.db
+
